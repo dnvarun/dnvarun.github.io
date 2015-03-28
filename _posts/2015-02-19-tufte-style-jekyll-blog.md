@@ -4,11 +4,11 @@ title:  "Tufte-style Jekyll blog"
 date:   2015-02-19 21:46:04
 categories: jekyll css
 ---
-{% newthought 'The Tufte Jekyll theme' %} is an attempt to create a website design with the look and feel of Edward Tufte's books and handouts. Tufte’s style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography.<!--more-->
+'The Tufte Jekyll theme' is an attempt to create a website design with the look and feel of Edward Tufte's books and handouts. Tufte’s style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography.<!--more-->
 
 ## Introduction
 
-{% newthought 'The Tufte Jekyll theme' %} is an attempt to create a website design with the look and feel of Edward Tufte's books and handouts. Tufte’s style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography.<!--more--> The idea for this project is essentially cribbed wholesale from Tufte and R Markdown's Tufte Handout format{% sidenote 1  'See [code.google.com/p/tufte-latex](https://code.google.com/p/tufte-latex') and [rmarkdown.rstudio.com/tufte_handout_format](http://rmarkdown.rstudio.com/tufte_handout_format.html) %} This page is an adaptation of the [Tufte Handout PDF](http://rmarkdown.rstudio.com/examples/tufte-handout.pdf).
+'The Tufte Jekyll theme' is an attempt to create a website design with the look and feel of Edward Tufte's books and handouts. Tufte’s style is known for its extensive use of sidenotes, tight integration of graphics with text, and well-set typography.<!--more--> The idea for this project is essentially cribbed wholesale from Tufte and R Markdown's Tufte Handout format{% sidenote 1  'See [code.google.com/p/tufte-latex](https://code.google.com/p/tufte-latex') and [rmarkdown.rstudio.com/tufte_handout_format](http://rmarkdown.rstudio.com/tufte_handout_format.html) %} This page is an adaptation of the [Tufte Handout PDF](http://rmarkdown.rstudio.com/examples/tufte-handout.pdf).
 
 ## Jekyll customizations
 
@@ -132,7 +132,7 @@ Of course, a table can be created using the usual html markup (```<table><thead>
   </tbody>
 </table>
 
-{% newthought Or %} you can avail yourself of the Markdown Extra features built into Kramdown, and use the Markdown Extra table syntax to make the very same thing:
+Or you can avail yourself of the Markdown Extra features built into Kramdown, and use the Markdown Extra table syntax to make the very same thing:
 
 {% marginnote 'Table 2: same table with Markdown Extra markup and sane numerical precision' %}
 
